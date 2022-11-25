@@ -1,0 +1,35 @@
+//  document.whello worldrite("hello world");
+/*  document.write("<br> </br>hello world");*/
+//  var number=21;
+//  var string;
+//  string="hello world";
+//  var floatnumber="1,23";
+//  document.write("variavle number=" + number +"</br>" +string+floatnumber+");
+//isTrue = true;//
+var x=5;
+var y;
+var result;
+var str_1="12";
+var str_2="24";
+y=5;
+result=x+y;
+document . write(result);
+//result=result+x;
+result+=x;
+document . write("</br>"+result);
+result++;
+document.write("</br>"+result);
+document.write("</br>");
+document . write(x+"+"+y+"="+(x+y));
+document . write("</br>");
+document . write(str_1+str_2);
+document . write("</br>");
+document . write(Number(str_1)+Number(str_2));
+document . write("</br>");
+var bool;
+var z=8;
+var d=7;
+bool=z<d;
+document . write(bool);
+document . write("</br>");
+document . write(10+"%"+3+"="+(10%3));
